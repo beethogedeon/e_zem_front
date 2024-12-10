@@ -34,8 +34,8 @@ export default function home() {
             <div class="app-info">
                 <img src="/assets/images/logo/mini-logo.png" class="img-fluid" alt=""/>
                 <div class="content">
-                    <h3>Taxify App</h3>
-                    <a href="#">www.taxify-app.com</a>
+                    <h3>e-Zem</h3>
+                    <a href="#">www.e-zem.bj</a>
                 </div>
             </div>
 
